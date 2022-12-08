@@ -69,7 +69,7 @@ input, textarea, select {
   src: url(fonts/jost-book.woff2), url(fonts/jost-book.woff);
 }
 body {
-  background-color: #f70201;
+  background-color: #ca774a;
   color: #fff;
   font-family: "Jost";
   font-size: 24px;
@@ -87,10 +87,11 @@ section {
 @media (max-width: 600px) {
   section {
     width: 350px;
+    font-size: 16px;
   }
 }
 section p {
-  margin: 20px;
+  margin: 24px 0 0 0;
 }
 
 /*# sourceMappingURL=app.css.map */
