@@ -80,6 +80,10 @@ header {
     margin: 20px 0;
 }
 
+.grid img {
+    width: 100%;
+}
+
 .centered {
     text-align: center;
     width: var(--centered-width);
